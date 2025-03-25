@@ -56,14 +56,6 @@ java HtmlAnalyzer <url>
 
 Substitua `<url>` pela URL que você deseja analisar.
 
-## Informações Adicionais
-
-O desafio consiste em analisar um código HTML seguindo algumas premissas específicas e desenvolver um programa em Java, utilizando apenas o JDK 17, sem bibliotecas externas ou classes nativas relacionadas à manipulação de HTML/XML/DOM. Também há um critério bônus para identificar HTML malformado.
-
-Se possível, gostaria muito da sua ajuda para entender melhor a melhor abordagem para resolver o problema. Para facilitar, posso lhe enviar os arquivos de teste e o código-fonte para compilação.
-
-Agradeço desde já pela atenção e qualquer orientação que puder me passar!
-
 Abraços,  
 Myke
 
